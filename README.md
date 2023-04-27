@@ -9,10 +9,6 @@ Solving PDEs using traditional numerical methods can be computationally expensiv
 2. Raissi et. al. (2017) https://arxiv.org/pdf/1711.10561.pdf  [**PINNs**]
 
 
-## Usage
-
-The code in this repository is organized into directories that correspond to different types of PDEs. To run a specific example, navigate to the relevant directory and run the corresponding Jupyter notebook.
-
 ## Examples
 
 The following examples are included in this repository:
@@ -20,10 +16,10 @@ The following examples are included in this repository:
 - **1D-Advection.ipynb:** Solving the 1D Advection equation using a PINN.
 ![image](https://user-images.githubusercontent.com/78913240/234979875-6b799c67-7985-46d6-a233-c00bb3556dbf.png)
 
-- **PDE_using_Lagaris_Approch:** we solved one PDE given in the [paper](https://arxiv.org/pdf/physics/9705023.pdf) using Lagrais Approch using one dense layer and 10 neurons.
+- **PDE_using_Lagaris_Approch.ipynb:** we solved one PDE given in the [paper](https://arxiv.org/pdf/physics/9705023.pdf) using Lagrais Approch using one dense layer and 10 neurons.
 ![image](https://user-images.githubusercontent.com/78913240/234981409-70d400d5-345b-4450-bc30-9241a5ec9dfd.png)
 
-- **PDE_using_PINNs :** We took same PDE as above and solved using PINNs (Raissi Approch) , as given the PINNs [paper](https://arxiv.org/pdf/1711.10561.pdf) 
+- **PDE_using_PINNs.ipynb :** We took same PDE as above and solved using PINNs (Raissi Approch) , as given the PINNs [paper](https://arxiv.org/pdf/1711.10561.pdf) 
 
 
 ## Contributing
