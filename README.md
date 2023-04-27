@@ -28,6 +28,10 @@ PDE solution using PINNs             |  PDE solution using Lagaris Approch
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/78913240/234987466-29867eb4-df2c-46c2-bbe6-e151233a4a83.png)  |  ![image](https://user-images.githubusercontent.com/78913240/234987482-0e751293-16da-47ee-8f9c-a44d09fc13a7.png)
 
+Solarized dark             | 
+:-------------------------:|
+![](https://...Dark.png)  | 
+
 ## Contributing
 
 Contributions to this project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
