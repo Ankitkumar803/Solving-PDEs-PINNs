@@ -4,7 +4,6 @@ This repository contains Python code and Jupyter notebooks that demonstrate the 
 Table of Contents
 
     Introduction
-    Installation
     Usage
     Examples
     Contributing
@@ -14,23 +13,21 @@ Table of Contents
 
 Solving PDEs using traditional numerical methods can be computationally expensive, especially for high-dimensional problems. PINNs offer an alternative approach that leverages the power of neural networks to solve PDEs using limited data. In this project, we demonstrate the use of PINNs for solving a variety of PDEs.
 
-## Installation
-
-To run the code in this repository, you will need to have Python 3.x installed on your system. You can install the required Python packages using the following command:
-
-pip install -r requirements.txt
 
 ## Usage
 
-The code in this repository is organized into subdirectories that correspond to different types of PDEs. To run a specific example, navigate to the relevant subdirectory and run the corresponding Jupyter notebook.
-Examples
+The code in this repository is organized into directories that correspond to different types of PDEs. To run a specific example, navigate to the relevant directory and run the corresponding Jupyter notebook.
 
-## The following examples are included in this repository:
+## Examples
 
-    burgers: Solving the 1D Burgers equation using a PINN.
-    navier_stokes: Solving the 2D Navier-Stokes equations using a PINN.
-    poisson: Solving the 2D Poisson equation using a PINN.
-    wave: Solving the 1D wave equation using a PINN.
+The following examples are included in this repository:
+
+    1D-Advection: Solving the 1D Advection equation using a PINN.
+    ![image](https://user-images.githubusercontent.com/78913240/234979875-6b799c67-7985-46d6-a233-c00bb3556dbf.png)
+
+    PDE using Lagaris Approch: we solved one PDE given in the [paper](https://arxiv.org/pdf/physics/9705023.pdf) using Lagrais Approch using one dense layer and 10 neurons.
+    PDE using PINNs : We took same PDE as above and solved using PINNs (Raissi Approch) , as given the PINNs [paper](https://arxiv.org/pdf/1711.10561.pdf) 
+
 
 ## Contributing
 
