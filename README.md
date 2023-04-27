@@ -28,7 +28,7 @@ PDE solution using PINNs             |  PDE solution using Lagaris Approch
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/78913240/234987466-29867eb4-df2c-46c2-bbe6-e151233a4a83.png)  |  ![image](https://user-images.githubusercontent.com/78913240/234987482-0e751293-16da-47ee-8f9c-a44d09fc13a7.png)
 
-Solarized dark             | 
+1D-Advenction using PINNs             | 
 :-------------------------:|
 <img src="https://user-images.githubusercontent.com/78913240/234990371-8b4eedcc-b709-42e0-a619-5d81671afffa.png" width = "425" /> <img src="https://user-images.githubusercontent.com/78913240/234990036-d70047d8-d88a-4228-b9eb-fd85fc37bb89.png" width = "425"> 
 | 
