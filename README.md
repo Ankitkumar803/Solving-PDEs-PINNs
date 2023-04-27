@@ -7,11 +7,12 @@ Table of Contents
     Usage
     Examples
     Contributing
-    License
 
 ## Introduction
 
-Solving PDEs using traditional numerical methods can be computationally expensive, especially for high-dimensional problems. PINNs offer an alternative approach that leverages the power of neural networks to solve PDEs using limited data. In this project, we demonstrate the use of PINNs for solving a variety of PDEs.
+Solving PDEs using traditional numerical methods can be computationally expensive, especially for high-dimensional problems. PINNs offer an alternative approach that leverages the power of neural networks to solve PDEs using limited data. In this project, i have demonstrate the use of PINNs for solving a variety of PDEs.I also implemented a methodology similar to PINNs (Raissi) i.e Lagaris Approach. These are the papers I used methodologies from.
+a) Lagaris et. al. (1997) https://arxiv.org/pdf/physics/9705023.pdf
+b) Raissi et. al. (2017) https://arxiv.org/pdf/1711.10561.pdf  [**PINNs**]
 
 
 ## Usage
@@ -22,19 +23,16 @@ The code in this repository is organized into directories that correspond to dif
 
 The following examples are included in this repository:
 
-- 1D-Advection: Solving the 1D Advection equation using a PINN.
+- **1D-Advection.ipynb:** Solving the 1D Advection equation using a PINN.
 ![image](https://user-images.githubusercontent.com/78913240/234979875-6b799c67-7985-46d6-a233-c00bb3556dbf.png)
 
-- PDE using Lagaris Approch: we solved one PDE given in the [paper](https://arxiv.org/pdf/physics/9705023.pdf) using Lagrais Approch using one dense layer and 10 neurons.
+- **PDE_using_Lagaris_Approch:** we solved one PDE given in the [paper](https://arxiv.org/pdf/physics/9705023.pdf) using Lagrais Approch using one dense layer and 10 neurons.
 ![image](https://user-images.githubusercontent.com/78913240/234981409-70d400d5-345b-4450-bc30-9241a5ec9dfd.png)
 
-- PDE using PINNs : We took same PDE as above and solved using PINNs (Raissi Approch) , as given the PINNs [paper](https://arxiv.org/pdf/1711.10561.pdf) 
+- **PDE_using_PINNs :** We took same PDE as above and solved using PINNs (Raissi Approch) , as given the PINNs [paper](https://arxiv.org/pdf/1711.10561.pdf) 
 
 
 ## Contributing
 
 Contributions to this project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
