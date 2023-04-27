@@ -2,13 +2,6 @@
 
 This repository contains Python code and Jupyter notebooks that demonstrate the use of Physics-Informed Neural Networks (PINNs) for solving Partial Differential Equations (PDEs).
 
-## Table of Contents
-
-    Introduction
-    Usage
-    Examples
-    Contributing
-
 ## Introduction
 
 Solving PDEs using traditional numerical methods can be computationally expensive, especially for high-dimensional problems. PINNs offer an alternative approach that leverages the power of neural networks to solve PDEs using limited data. In this project, i have demonstrate the use of PINNs for solving a variety of PDEs.I also implemented a methodology similar to PINNs (Raissi) i.e Lagaris Approach. These are the papers I used methodologies from.
