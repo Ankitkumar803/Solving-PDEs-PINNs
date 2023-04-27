@@ -21,6 +21,10 @@ The following examples are included in this repository:
 
 - **PDE_using_PINNs.ipynb :** We took same PDE as above and solved using PINNs (Raissi Approch) , as given the PINNs [paper](https://arxiv.org/pdf/1711.10561.pdf) 
 
+## Results
+![image](https://user-images.githubusercontent.com/78913240/234987466-29867eb4-df2c-46c2-bbe6-e151233a4a83.png)  ![image](https://user-images.githubusercontent.com/78913240/234987482-0e751293-16da-47ee-8f9c-a44d09fc13a7.png)
+
+
 
 ## Contributing
 
